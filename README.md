@@ -1,4 +1,4 @@
-# grc-risk-assessment: Fictional General Practice Elmbrook Surgery
+# GRC Risk Assessment: Elmbrook Surgery
 A governance, risk and compliance (GRC) portfolio project. A risk assessment of a fictional NHS GP Practice, supported by a risk register tool I'm building in Python.
 
 **Status:** In progress
